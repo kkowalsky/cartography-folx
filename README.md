@@ -1,4 +1,4 @@
-# cartography-folkx
+# cartography-folx
 An attempt to create a list awesome and diverse people who you can add to your mapping conferences, talks, panels, competitions, etc. We represent a field about visualizing the world and our human experience, it's about time we have that same diversity in our professional events.
 
 ## List 
