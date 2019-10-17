@@ -8,4 +8,11 @@ Add your name, pronouns, preferred internet handle, brief description of area of
 - Vanessa Knoppke-Wetzel, she/her, [@run_for_funner](https://twitter.com/run_for_funner), {map design, basemaps, historic cartography aesthetics}, Washington, DC
 - Alicia Iverson, she/her, [aai3@humboldt.edu], {print cartography, participatory mapping}, Madison, WI
 - Madhura Phaterpekar, she/her, [kamadz.home@gmail.com], {development, map design}, Redlands, CA
--
+- Rosemary Wardley, she/her, [@rosemarywardley](https://twitter.com/RosemaryWardley), {map design, print cartography}, Washington, DC
+- 
+- 
+- 
+- 
+- 
+- 
+
