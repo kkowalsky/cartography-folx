@@ -7,5 +7,5 @@ Add your name, pronouns, preferred internet handle, brief description of area of
 - Katie Kowalsky, she/her, [@katiekowalsky](https://twitter.com/katiekowalsky), {web mapping, OSM, basemap design, UI/UX}, San Francisco, CA
 - Vanessa Knoppke-Wetzel, she/her, [@run_for_funner](https://twitter.com/run_for_funner), {map design, basemaps, historic cartography aesthetics}, Washington, DC
 - Alicia Iverson, she/her, [aai3@humboldt.edu], {print cartography, participatory mapping}, Madison, WI
--
+- Madhura Phaterpekar, she/her, [kamadz.home@gmail.com], {development, map design}, Redlands, CA
 -
