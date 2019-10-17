@@ -5,7 +5,7 @@ An attempt to create a list awesome and diverse people who you can add to your m
 Add your name, pronouns, preferred internet handle, brief description of area of cartographic expertise, and location.
 
 - Katie Kowalsky, she/her, [@katiekowalsky](https://twitter.com/katiekowalsky), {web mapping, OSM, basemap design, UI/UX}, San Francisco, CA
-- Vanessa Knoppke-Wetzel, she/her, [@run_for_funner](https://twitter.com/run_for_funner). {map design, basemaps, historic cartography aesthetics}, Washington, DC
+- Vanessa Knoppke-Wetzel, she/her, [@run_for_funner](https://twitter.com/run_for_funner), {map design, basemaps, historic cartography aesthetics}, Washington, DC
 -
 -
 -
