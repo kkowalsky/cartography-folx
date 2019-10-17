@@ -4,5 +4,4 @@ an attempt to create a list awesome and diverse people who you can add to your m
 ## List 
 add your name, pronouns, preferred internet handle, brief description of area of cartographic expertise
 
-- Katie Kowalsky, she/her, [@katiekowalsky](https://twitter.com/katiekowalsky), web mapping- particularly vector-based design & product building.
-- 
+- Katie Kowalsky, she/her, [@katiekowalsky](https://twitter.com/katiekowalsky), {web mapping, OSM, basemap design, UI/UX}
