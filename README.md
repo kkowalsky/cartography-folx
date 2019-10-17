@@ -9,10 +9,8 @@ Add your name, pronouns, preferred internet handle, brief description of area of
 - Alicia Iverson, she/her, [aai3@humboldt.edu], {print cartography, participatory mapping}, Madison, WI
 - Madhura Phaterpekar, she/her, [kamadz.home@gmail.com], {development, map design}, Redlands, CA
 - Rosemary Wardley, she/her, [@rosemarywardley](https://twitter.com/RosemaryWardley), {map design, print cartography}, Washington, DC
+- Stephanie May, she/her, [@mizmay](https://twitter.com/mizmay), {mapping from data, cartography in tech}, Seattle, WA
 - 
 - 
 - 
 - 
-- 
-- 
-
